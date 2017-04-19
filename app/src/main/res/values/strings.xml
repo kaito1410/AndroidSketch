@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A3Paint</string>
+    <string name="select">Select</string>
+    <string name="line">Line</string>
+    <string name="circle">Circle</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="erase">Erase</string>
+    <string name="fill">Fill</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>

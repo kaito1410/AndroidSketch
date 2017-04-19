@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1dc482756bd41c1edd6fe49a7dc4e699e7d7dcc0">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_35f7c933d2b9a80818e701e7d73056e4dd7b580c/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_9e360dacdcd834f6c56ddca1748527b81e02a783/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_f3c92388faee660f9ecb328d772e7a8156dcedee/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_d0f34c24e48f4d24447b779ea77716b8767e13c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_227b927900fbd4775fc7b25e60eca062377012a1/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a54450ff16c41f77001e35c6d8f130a6ef767338/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_2ab115102c028d5eb0e7b9aa9cc64e39a9c37937/classes.dex" />
+    </item>
+    <item
+        jar="/home/steven/cs349/s36zhu/A3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4f0d2ac0205eab6fbf0f1950f111a2f77fe6ca77">
+        <dex dex="/home/steven/cs349/s36zhu/A3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21df05aa4498bacd5cff29c9973ac2cb195170a5/classes.dex" />
+    </item>
+
+</items>
